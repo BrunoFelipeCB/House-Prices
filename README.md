@@ -13,7 +13,7 @@ This repository was made to explain the project of **[Kaggle](https://www.kaggle
 - The same model from [stage 1](https://github.com/BrunoFelipeCB/House-Prices/blob/main/Primeira%20parte.ipynb) was used."
 - The public score returned by Kaggle was: 0,1812.
 ## [Step 3: Data Processing](https://github.com/BrunoFelipeCB/House-Prices/blob/main/Terceira%20parte.ipynb)
--Utilizing the dataset generated in [step 2](https://github.com/BrunoFelipeCB/House-Prices/blob/main/Segunda%20Parte.ipynb), with the data already processed, we began by analyzing the **correlation between numerical variables and the most frequent values of text variables**.
+- Utilizing the dataset generated in [step 2](https://github.com/BrunoFelipeCB/House-Prices/blob/main/Segunda%20Parte.ipynb), with the data already processed, we began by analyzing the **correlation between numerical variables and the most frequent values of text variables**.
 - For text processing, I chose to **eliminate very similar values** and then used functions to assist in the processing. 
 - I also used the **OneHotEncoder and OrdinalEncoder** to process the remaining text columns.
 - After performing these treatments, I submitted it once again on Kaggle to assess the results after this initial part and determine how to proceed with the rest of the dataset.
