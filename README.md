@@ -1,6 +1,8 @@
 # House-Prices
 This repository was made to explain the project of **[Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/tutorials)**:
 
+**The comments in the codes are in PT-BR**
+
 ## [Step 1: First model](https://github.com/BrunoFelipeCB/House-Prices/blob/main/Primeira%20parte.ipynb)
 - At the beginning, I chose to do only basic treatments, removing empty values ​​without any type of data engineering.
 - For simplicity, I treated empty values ​​as '-1', to make it clear that the data transition process was correct, but the data was non-existent. As there are no negative values ​​native to the base, this transformation will not be a problem.
