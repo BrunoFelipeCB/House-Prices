@@ -2,7 +2,14 @@
 This repository was made to explain the project of **[Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/tutorials)**:
 
 **The comments in the codes are in PT-BR**
-
+## Objectives:
+- Complete project using the Kaggle database to predict house prices in the USA.
+## Main libraries used:
+- Pandas, Numpy, Sklearn (metrics, linear model, model selection), XGBoost and Seaborn.
+## You can find me at:
+&nbsp;<a href="https://www.linkedin.com/in/brunofcb/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
 ## [Step 1: First model](https://github.com/BrunoFelipeCB/House-Prices/blob/main/Primeira%20parte.ipynb)
 - At the beginning, I chose to do only basic treatments, removing empty values ​​without any type of data engineering.
 - For simplicity, I treated empty values ​​as '-1', to make it clear that the data transition process was correct, but the data was non-existent. As there are no negative values ​​native to the base, this transformation will not be a problem.
@@ -34,4 +41,5 @@ This repository was made to explain the project of **[Kaggle](https://www.kaggle
 - 
 ## [Step 5: Considerations and results.](https://github.com/BrunoFelipeCB/House-Prices/blob/main/Kaggle.png)
 - When analyzing this model I tried to be as careful as possible to avoid overfitting, at no point did I go after the 0.0 score, I just wanted to create a general model so that it can be used on any other occasion.
-- All Kaggle results are available in the [Kaggle image file](https://github.com/BrunoFelipeCB/House-Prices/blob/main/Kaggle.png)
+- All Kaggle results are available in the Kaggle.
+   ![Kaggle](https://github.com/BrunoFelipeCB/House-Prices/blob/main/Kaggle.png)
