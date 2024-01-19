@@ -4,6 +4,7 @@ This repository was made to explain the project of **[Kaggle](https://www.kaggle
 **The comments in the codes are in PT-BR**
 ## Objectives:
 - Complete project using the Kaggle database to predict house prices in the USA.
+- Metadata was found in [data_description.txt](https://github.com/BrunoFelipeCB/House-Prices/blob/main/data_description.txt) file.
 ## Main libraries used:
 - Pandas, Numpy, Sklearn (metrics, linear model, model selection), XGBoost and Seaborn.
 ## You can find me at:
